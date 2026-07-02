@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Jingye Wang monogram">
+  <rect width="512" height="512" rx="64" fill="#f7f3ea"/>
+  <rect x="26" y="26" width="460" height="460" rx="44" fill="none" stroke="#24313b" stroke-width="22"/>
+  <text x="256" y="306" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="198" font-weight="700" fill="#24313b">JW</text>
+  <path d="M174 378h164" stroke="#8a3d34" stroke-width="12" stroke-linecap="round"/>
+</svg>
