@@ -73,9 +73,18 @@ a:hover {
 }
 
 .brand {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: var(--ink);
   font-weight: 700;
   text-decoration: none;
+}
+
+.brand-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
 }
 
 .nav-links {
