@@ -184,12 +184,13 @@ h3 {
 
 .portrait img {
   width: 280px;
-  height: 280px;
-  aspect-ratio: 1;
+  height: 350px;
+  aspect-ratio: 4 / 5;
   border: 1px solid var(--line);
   border-radius: 8px;
   box-shadow: var(--shadow);
   object-fit: cover;
+  object-position: center 20%;
 }
 
 main {
@@ -409,7 +410,7 @@ main {
 
   .portrait img {
     width: 210px;
-    height: 210px;
+    height: 263px;
   }
 
   h1 {
